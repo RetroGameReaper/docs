@@ -21,6 +21,7 @@ A summary of the licenses behind RetroArch and its cores can be found [here](../
 - OpenGL/Open GL ES 2.0 or higher for the OpenGL renderer.
 - Vulkan for the Vulkan renderer.
 - Direct3D 11 for the Direct3D 11 renderer.
+- Disable the rewind feature.
 
 ## BIOS
 
